@@ -1,4 +1,4 @@
-# QR-Code-Generator
+# QR-Code-Generator(https://anunaykashyap.github.io/QR-Code-Generator/)
 
 
 ![Screenshot (60)](https://user-images.githubusercontent.com/83161515/212770318-a1faf7c8-d680-4622-a881-8b668d856e79.png)
